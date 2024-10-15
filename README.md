@@ -9,10 +9,10 @@ Este proyecto es un sistema de gestión de productos de ropa implementado en Jav
 5) **Carrito**: Almacena los productos seleccionados para la compra.
 
 ## Pilares de POO Implementados
- 1)**Encapsulamiento**: Atributos encapsulados con métodos getters y setters.
- 2) **Herencia**: Ropa hereda de Producto, y las clases específicas heredan de Ropa.
- 3) **Polimorfismo**: Método `mostrar_info` sobrescrito en cada clase hija.
- 4) **Abstracción**: Oculta detalles internos del proceso de compra.
+1) **Encapsulamiento**: Atributos encapsulados con métodos getters y setters.
+2) **Herencia**: Ropa hereda de Producto, y las clases específicas heredan de Ropa.
+3) **Polimorfismo**: Método `mostrar_info` sobrescrito en cada clase hija.
+4) **Abstracción**: Oculta detalles internos del proceso de compra.
 
 ## Interacción con el Usuario
 El programa permite a los usuarios seleccionar productos de un menú, almacenarlos en un carrito y al finalizar la compra, mostrar un resumen con los productos seleccionados y el total a pagar.
