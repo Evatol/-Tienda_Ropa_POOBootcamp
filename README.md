@@ -1,4 +1,4 @@
-Este proyecto es un sistema de gestión de productos de ropa implementado en Java, siguiendo principios de Programación Orientada a Objetos (POO). 
+Este proyecto es un sistema de gestión de productos de ropa implementado en Python, siguiendo principios de Programación Orientada a Objetos (POO). 
 
 ## Clases Implementadas
 
@@ -18,4 +18,4 @@ Este proyecto es un sistema de gestión de productos de ropa implementado en Jav
 El programa permite a los usuarios seleccionar productos de un menú, almacenarlos en un carrito y al finalizar la compra, mostrar un resumen con los productos seleccionados y el total a pagar.
 
 ## Uso
-Para ejecutar el programa, utiliza un IDE compatible con Java y asegúrate de tener configurada la versión correcta de Java.
+Para ejecutar el programa, asegurate de tener instalado Python y asegúrate de tener configurada la versión correcta de Python y ejecuta el archivo principal del Proyecto.
